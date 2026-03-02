@@ -16,3 +16,12 @@ Start Date    : 03/03/25
 Record Time   : 02/03/2026 20:38:43
 ====================
 
+=== Project Entry ===
+Project Name  : labwork3
+Team Leader   : ali
+Team Size     : 7-10
+Project Type  : Web
+Start Date    : 01/01/26
+Record Time   : 02/03/2026 21:02:34
+====================
+
